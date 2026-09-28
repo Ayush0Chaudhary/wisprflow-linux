@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Hold to Talk
+Comment=Hold a key to dictate into the focused text field
+Exec=run.sh
+Icon=logo.png
+Terminal=false
+Categories=Utility;Audio;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
